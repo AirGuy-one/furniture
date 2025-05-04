@@ -45,7 +45,7 @@ REST_FRAMEWORK = {
 }
 
 SPECTACULAR_SETTINGS = {
-    'TITLE': 'Radio Parts API',
+    'TITLE': 'Furniture API',
     'VERSION': '1.0.0',
 }
 
